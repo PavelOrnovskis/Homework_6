@@ -1,6 +1,7 @@
 import { User } from '../src/User'
 import { Processor } from '../src/Processor'
 
+
 describe('Processor test', () => {
   let user1: User
   beforeAll(() => {
